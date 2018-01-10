@@ -1,0 +1,5 @@
+# Ignore composer related files
+/composer.lock
+/vendor/*
+# Ignore TYPO3 core files
+/web/*
